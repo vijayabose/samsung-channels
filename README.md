@@ -5,6 +5,7 @@ Samsung - app for TV channels. With a self register module for adding your own T
 
 
 Development Version - Version 0.9
+
 Current Version - None
 
 
